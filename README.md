@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on: eductional material for aspiring data scientists
+- 🌱 I’m currently learning: probabilistic graphs (help me)
+- 🤔 I’m looking for help with: probabilistic graphs lol
+- 💬 Ask me about: time series forecasting
+- 😄 Pronouns: he/him
 
 <!--
 **jdanial18/jdanial18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
